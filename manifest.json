@@ -1,6 +1,6 @@
 {
-    "name": "heart_by_ahg_pre_firebase",
-    "short_name": "heart_by_ahg_pre_firebase",
+    "name": "heart_by_ahg_for_web",
+    "short_name": "heart_by_ahg_for_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
